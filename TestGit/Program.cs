@@ -6,7 +6,7 @@ namespace TestGit
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!" + "My name is Kolia!");
+            Console.WriteLine("Hello World!" + "My name is Kolia!"  );
         }
     }
 }
